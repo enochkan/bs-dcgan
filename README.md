@@ -2,7 +2,7 @@
 
 This Tensorflow implementation of [Deep Convolutional Generative Adversarial Networks](http://arxiv.org/abs/1511.06434) was originally modified to generate artwork. The code was further modified to incorporate BatchNorm- SELU layers to generate Computer Tomography (CT) images in HD quality. The submitted EMBC conference abstract is provided under assets folder. An example of a pediatric CT image generated from the BS-DCGAN network is shown below:
 
-![picture](assets/selu_gen.tiff)
+![picture](assets/selu_gen.png)
 
 ## Prerequisites
 
